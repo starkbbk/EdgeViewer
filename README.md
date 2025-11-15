@@ -42,11 +42,12 @@ app/
 ### 🖼️ App Output  
 Displays the uploaded PNG:
 
-<img src="screenshots/output.png" width="300"/>
+<img src="output1.png" width="300"/>
+<img src="output2.png" width="300"/>
 
 ### 📁 Project Folder Structure
 
-<img src="screenshots/project_structure.png" width="300"/>
+<img src="path" width="300"/>
 
 ---
 
