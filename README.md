@@ -1,3 +1,4 @@
+'''
 # 📸 EdgeViewer – Android Image Viewer (OpenGL ES)
 
 EdgeViewer is a simple Android app that displays images using **OpenGL ES 2.0**.  
@@ -27,13 +28,17 @@ This project was completed as part of an internship assignment.
 
 ## 📂 Project Structure
 app/
-├── src/main/java/com/example/edgeviewer/gl/
-│     ├── MainActivity.kt
-│     ├── EdgeGLSurfaceView.kt
-│     ├── EdgeRenderer.kt
-│     └── NativeLib.kt
-├── src/main/res/drawable/test.png
-└── src/main/res/layout/activity_main.xml
+ ├── src/main/java/com/example/edgeviewer/gl/
+ │    ├── MainActivity.kt
+ │    ├── EdgeGLSurfaceView.kt
+ │    ├── EdgeRenderer.kt
+ │    └── NativeLib.kt
+ │
+ ├── src/main/res/drawable/
+ │    └── test.png
+ │
+ └── src/main/res/layout/
+      └── activity_main.xml
 
 ---
 
@@ -56,3 +61,4 @@ Displays the uploaded PNG:
 1. Clone the repository  
    ```bash
    git clone https://github.com/starkbbbk/EdgeViewer.git
+   '''
