@@ -1,4 +1,4 @@
-package gl
+package com.example.edgeviewer.gl
 
 import android.content.Context
 import android.graphics.Bitmap

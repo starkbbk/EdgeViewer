@@ -11,7 +11,7 @@
         android:theme="@style/Theme.EdgeViewer">
 
         <activity
-            android:name="gl.MainActivity"
+            android:name=".gl.MainActivity"
             android:exported="true">
 
             <intent-filter>
