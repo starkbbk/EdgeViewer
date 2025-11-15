@@ -68,7 +68,6 @@ npm run start
 
 ## Then open: http://localhost:3000
 
-```md
 ### Web Output
 <img src="web_output.png" width="400"/>
 
