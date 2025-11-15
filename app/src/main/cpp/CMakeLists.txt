@@ -1,22 +1,25 @@
 cmake_minimum_required(VERSION 3.10.2)
-project("edgeviewer")
 
-# Path to your OpenCV Android SDK
-set(OpenCV_DIR "/Users/starkbbks/Downloads/OpenCV-android-sdk/sdk/native/jni")
+project(edgeviewer)
 
-find_package(OpenCV REQUIRED)
+# Use C++17
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_library(
         native-lib
         SHARED
-        processor.cpp)
+        native-lib.cpp
+)
+
 
 find_library(
         log-lib
-        log)
+        log
+)
 
 target_link_libraries(
         native-lib
-        ${OpenCV_LIBS}
         ${log-lib}
-        c++_shared)
+        c++_shared
+)

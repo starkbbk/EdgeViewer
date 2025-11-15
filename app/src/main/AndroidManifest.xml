@@ -10,7 +10,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EdgeViewer">
 
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".MainActivity"
             android:exported="true">
 
             <intent-filter>
@@ -21,4 +22,5 @@
         </activity>
 
     </application>
+
 </manifest>
