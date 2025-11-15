@@ -47,7 +47,7 @@ Displays the uploaded PNG:
 
 ### 📁 Project Folder Structure
 
-<img src="path" width="300"/>
+<img src="directory.png" width="300"/>
 
 ---
 
