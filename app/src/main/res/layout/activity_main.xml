@@ -4,9 +4,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <!-- OpenGL surface -->
     <com.example.edgeviewer.gl.EdgeGLSurfaceView
         android:id="@+id/glView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
+    <!-- small overlay hint -->
+    <TextView
+        android:id="@+id/fpsLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="EdgeViewer (Camera + OpenCV)"
+        android:textColor="@android:color/white"
+        android:background="#66000000" />
 
 </FrameLayout>
