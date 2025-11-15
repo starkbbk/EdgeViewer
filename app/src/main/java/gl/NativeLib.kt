@@ -1,4 +1,4 @@
-package com.example.edgeviewer
+package gl
 
 import android.graphics.Bitmap
 import java.nio.ByteBuffer
