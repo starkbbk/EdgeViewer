@@ -70,7 +70,7 @@ npm run start
 
 ```md
 ### Web Output
-<img src="Web Viewer Screenshot.png" width="400"/>
+<img src="web_output.png" width="400"/>
 
 ## ▶️ How to Run
 
