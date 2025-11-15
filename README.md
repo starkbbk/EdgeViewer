@@ -60,17 +60,19 @@ Displays the uploaded PNG:
 A lightweight web tool to preview processed frames exported from the Android app.
 
 ### Run Web Viewer:
+
 ```bash
 cd web
 npm install
 npm run build
 npm run start
+```
 
-## Then open: http://localhost:3000
+Then open:  
+👉 **http://localhost:3000**
 
-### Web Output
+### Web Output  
 <img src="web_output.png" width="400"/>
-
 ## ▶️ How to Run
 
 1. Clone the repository  
