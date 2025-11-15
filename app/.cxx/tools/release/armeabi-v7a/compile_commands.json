@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/.cxx/RelWithDebInfo/i6a253g2/armeabi-v7a",
+  "command": "/Users/starkbbks/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi24 --sysroot=/Users/starkbbks/Library/Android/sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -std=c++17 -O2 -g -DNDEBUG -fPIC -std=gnu++17 -o CMakeFiles/native-lib.dir/native-lib.cpp.o -c /Users/starkbbks/Downloads/rnd_intern_assignment/android/app/src/main/cpp/native-lib.cpp",
+  "file": "/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/src/main/cpp/native-lib.cpp"
+}
+]

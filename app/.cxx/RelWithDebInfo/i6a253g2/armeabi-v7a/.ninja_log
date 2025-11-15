@@ -1,0 +1,19 @@
+# ninja log v5
+0	6	0	clean	a6928821974aca4c
+1	509	1763186293761938750	CMakeFiles/native-lib.dir/processor.cpp.o	fddc0acc7a65c718
+0	139	1763187536788767344	CMakeFiles/native-lib.dir/native-lib.cpp.o	112850471611a680
+139	182	1763187536831300815	/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/build/intermediates/cxx/RelWithDebInfo/i6a253g2/obj/armeabi-v7a/libnative-lib.so	e7dcf2b6d4e83ab2
+0	5	0	clean	a6928821974aca4c
+0	4	0	clean	a6928821974aca4c
+1	389	1763188524986628036	CMakeFiles/native-lib.dir/native-lib.cpp.o	112850471611a680
+390	504	1763188525095325992	/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/build/intermediates/cxx/RelWithDebInfo/i6a253g2/obj/armeabi-v7a/libnative-lib.so	e7dcf2b6d4e83ab2
+0	5	0	clean	a6928821974aca4c
+0	6	0	clean	a6928821974aca4c
+0	5	0	clean	a6928821974aca4c
+0	10	0	clean	a6928821974aca4c
+0	5	0	clean	a6928821974aca4c
+1	302	1763192567257430967	CMakeFiles/native-lib.dir/native-lib.cpp.o	112850471611a680
+303	390	1763192567346345721	/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/build/intermediates/cxx/RelWithDebInfo/i6a253g2/obj/armeabi-v7a/libnative-lib.so	e7dcf2b6d4e83ab2
+0	10	0	clean	a6928821974aca4c
+1	283	1763193068784350411	CMakeFiles/native-lib.dir/native-lib.cpp.o	112850471611a680
+283	345	1763193068846435726	/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/build/intermediates/cxx/RelWithDebInfo/i6a253g2/obj/armeabi-v7a/libnative-lib.so	e7dcf2b6d4e83ab2

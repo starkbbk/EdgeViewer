@@ -1,0 +1,1 @@
+/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/src/main/cpp/CMakeLists.txt

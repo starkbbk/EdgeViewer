@@ -1,0 +1,3 @@
+/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/.cxx/RelWithDebInfo/i6a253g2/armeabi-v7a/CMakeFiles/native-lib.dir
+/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/.cxx/RelWithDebInfo/i6a253g2/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/starkbbks/Downloads/rnd_intern_assignment/android/app/.cxx/RelWithDebInfo/i6a253g2/armeabi-v7a/CMakeFiles/rebuild_cache.dir
